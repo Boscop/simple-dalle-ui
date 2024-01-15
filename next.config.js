@@ -1,4 +1,4 @@
 module.exports = {
-    basePath: '/image-gen',
-    assetPrefix: '/image-gen/',
-  };
+  basePath: '/image-gen',
+  assetPrefix: '/image-gen/',
+};
